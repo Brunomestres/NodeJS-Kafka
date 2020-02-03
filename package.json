@@ -5,10 +5,13 @@
   "author": "Bruno Ribeiro <brunomestres@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev":" nodemon src/index.js"
+    "dev": " nodemon src/server.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.2",
     "sucrase": "^3.12.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
