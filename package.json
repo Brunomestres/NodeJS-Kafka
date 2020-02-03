@@ -1,0 +1,11 @@
+{
+  "name": "Kafka-NodeJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno Ribeiro <brunomestres@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "sucrase": "^3.12.1"
+  }
+}
